@@ -1,0 +1,8 @@
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('1', '101','Joao', 'M');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('2', '102', 'Patrick', 'M');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('3', '103', 'Marcus', 'M');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('4', '104', 'Julia', 'F');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('5', '105', 'Fernanda', 'F');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('6', '106', 'Maria', 'F');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('7', '107', 'Vanessa', 'F');
+insert into dim_funcionario (sk_funcionario, nk_funcionario, nm_func, genero) values ('8', '108', 'Pedro', 'M');
